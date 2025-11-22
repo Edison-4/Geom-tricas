@@ -1,1 +1,1 @@
-# Geom-tricas
+# Figuras Geométricas
